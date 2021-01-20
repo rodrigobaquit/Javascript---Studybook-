@@ -1,0 +1,44 @@
+
+//equality operator
+
+console.log('1' ==  1);
+
+//equality operator compare only if the number it is equally, 
+avoiding to compare the type
+
+// expected output: true
+
+
+
+//inequality operator
+
+console.log('1' !=  1);
+
+//inequality operator compare only if the number it is unequal, 
+avoiding to compare the type
+
+// expected output: false
+
+
+
+//Identity operator
+
+console.log ( 1 === 1 )
+//identity operator compare if the number, as well as the type, are equal
+
+// expected output: true
+
+
+
+
+// Nonidentity operator
+
+console.log('1' !==  1);
+
+//nonidentity operator compare if the number, as well as the type, are unequal
+// expected output: true
+
+
+
+
+
