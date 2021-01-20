@@ -1,0 +1,85 @@
+//How can use attributes in JavaScript to increment or decrement numbers?
+
+// =           x = y           x = y
+// +=        x += y        x = x + y
+// -=        x -= y        x = x - y
+// *=        x *= y        x = x * y
+// /=        x /= y        x = x / y
+// %=        x %= y        x = x % y
+
+//Example: 
+
+
+//Increment ( Addition operator)
+
+var a = 30;
+
+var increment = a+=1
+
+console.log(increment);
+
+//Result = 31;
+
+
+//Decrement ( Subtraction operator)
+
+var a = 30;
+
+var decrement = a-=1
+
+console.log(decrement);
+
+//Result = 29;
+
+
+//Multiply ( Multiplication operator)
+
+var a = 30;
+
+var multiply = a*=2
+
+console.log(multiply);
+
+//Result = 60;
+
+//Divide (Division operator)
+
+var a = 30;
+
+var divide = a/=2
+
+console.log(divide);
+
+//Result = 15;
+
+//Remainder ( Remainder operator)
+
+var a = 30;
+
+var divide = a%=28
+
+console.log(divide);
+
+//Result = 2;
+
+
+//Exponential ( Exponentiation operator)
+
+var a = 10;
+
+var exponential = a**=2
+
+console.log(exponential);
+
+//Result = 100;
+
+
+
+
+
+
+
+
+
+
+
