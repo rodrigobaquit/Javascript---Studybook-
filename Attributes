@@ -1,6 +1,6 @@
 //How can use attributes in JavaScript to increment or decrement numbers?
 
-// =           x = y           x = y
+// =         x = y         x = y
 // +=        x += y        x = x + y
 // -=        x -= y        x = x - y
 // *=        x *= y        x = x * y
