@@ -1,0 +1,24 @@
+// && and 
+// || or
+
+
+var age = 70;
+
+var lessThen10 = age < 10;
+var moreThen65 = age > 65;
+var gratuity = lessThen10 || moreThen65;
+
+console.log("Years old", age);
+console.log("Less then 10", lessThen10);
+;console.log("More then 65",moreThen65)
+console.log("Do Does owe have gratuity?", gratuity);
+
+
+Years Old 70
+Less then 10 false
+More then 65 true
+Do Does owe have gratuity? true 
+// This result occurred because we used ||. Indeed that, this symbol
+compare if any "var" was to be attending the logical rules that we establish before
+
+
