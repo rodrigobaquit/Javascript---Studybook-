@@ -1,0 +1,14 @@
+var nome = prompt("Qual o seu nome?");
+
+alert("Bom dia, " + nome);
+
+//expected result : Bom dia, Rodrigo
+
+
+
+var numero = parseInt( prompt("Digite um numero"));
+var dobro = numero + numero;
+
+alert("O dobro de " + numero + " é " + dobro)
+
+//expected result: if you insert the number 6 the result might be 6 + 6 = 12
