@@ -1,0 +1,15 @@
+
+// use parseInt if you want to transform a string in a integer
+var a = "3";
+var b = "6";
+var c = parseInt(a) + parseInt(b);
+
+console.log(c)
+
+// use parseFloat if you want to transform a string in a decimal number.
+var e = "3.5";
+var f = "6";
+var g = parseFloat(e) + parseInt(f);
+
+console.log(g)
+
